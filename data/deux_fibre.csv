@@ -1,0 +1,198 @@
+ID,Tipo de fibra 1,Tipo de fibra 2,Dias curado,Dosage 1 (Kg/m3),Dosage 2 (Kg/m3),% Celulosa 1,% Celulosa 2,MEB 1,MEB 2,Rf (MPa),Rc (MPa),Etalement t=0 (mm),Teneur en air (%),Masse volumique (Kg/m3),Retrait,Coef.absorcion t=1 (%) Fibre 1,Coef.absorcion t=5 (%) Fibre 1,Coef.absorcion t=2880 (%) Fibre 1,Coef.absorcion t=1 (%) Fibre 2,Coef.absorcion t=5 (%) Fibre 2,Coef.absorcion t=2880 (%) Fibre 2
+M1,CH5,B15,1,0.6,1.8,72,50,1,4, 1.71 , 4.90 ,442.5,4.4,2.148,6,84.80,121.57,135.27,48.70,64.37,89.70
+M2,CH5,M15,1,0.6,1.8,72,47,1,3, 1.61 , 4.58 ,460,4.25,2.148,7,84.80,121.57,135.27,154.73,180.07,277.07
+M3,L6,B15,1,0.6,1.8,71,50,2,4, 1.73 , 5.12 ,437.5,4,2.15,4,21.30,34.23,155.27,48.70,64.37,89.70
+M4,L6,M15,1,0.6,1.8,71,47,2,3, 1.51 , 4.34 ,457.5,4.3,2.14,5,21.30,34.23,155.27,154.73,180.07,277.07
+M5,CH.ANTIF. Antif,NO,1,0.6,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,2.24,6.62,395,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M6,CH.STRUCT. Antif.,CH.STRUCT. Strux,1,0.6,1.8,Syntéthique,Syntéthique,Syntéthique,Syntéthique,2.32,6.81,400,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M7,Témoin,NO,1,0,0,Témoin,Témoin,Témoin,Témoin, 4.24 , 14.18 ,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M8,CH5,B15,1,1,2.2,72,50,1,4, 2.92 , 13.37 ,445,4.5,2.14,6,84.80,121.57,135.27,48.70,64.37,89.70
+M9,CH5,M15,1,1,2.2,72,47,1,3, 3.51 , 12.24 ,445,4.3,2.14,7,84.80,121.57,135.27,154.73,180.07,277.07
+M10,L6,B15,1,1,2.2,71,50,2,4, 3.59 , 11.57 ,437.5,4.1,2.144,4,21.30,34.23,155.27,48.70,64.37,89.70
+M11,L6,M15,1,1,2.2,71,47,2,3, 3.79 , 11.90 ,432.5,4.4,2.1377,5,21.30,34.23,155.27,154.73,180.07,277.07
+M12,CH.ANTIF. Antif,NO,1,1,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M13,CH.STRUCT. Antif.,CH.STRUCT. Strux,1,1,2.2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M14,Témoin,NO,1,0,0,Témoin,Témoin,Témoin,Témoin, 4.24 , 14.18 ,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M15,CH5,B15,1,0.8,2.4,72,50,1,4, 4.63 , 13.77 ,452.5,4,2.1322,6,84.80,121.57,135.27,48.70,64.37,89.70
+M16,CH5,M15,1,0.8,2.4,72,47,1,3, 3.90 , 11.96 ,455,4.1,2.139,7,84.80,121.57,135.27,154.73,180.07,277.07
+M17,L6,B15,1,0.8,2.4,71,50,2,4, 4.70 , 14.24 ,450,4.2,2.152,4,21.30,34.23,155.27,48.70,64.37,89.70
+M18,L6,M15,1,0.8,2.4,71,47,2,3, 4.32 , 12.38 ,442.5,4.3,2.1386,5,21.30,34.23,155.27,154.73,180.07,277.07
+M19,CH.ANTIF. Antif,NO,1,0.8,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M20,CH.STRUCT. Antif.,CH.STRUCT. Strux,1,0.8,2.4,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M21,Témoin,NO,1,0,0,Témoin,Témoin,Témoin,Témoin, 4.24 , 14.18 ,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M22,CH5,B15,1,0.6,2.6,72,50,1,4, 3.79 , 12.64 ,465,4.3,2.134,6,84.80,121.57,135.27,48.70,64.37,89.70
+M23,CH5,M15,1,0.6,2.6,72,47,1,3, 3.86 , 12.55 ,462,4,2.136,7,84.80,121.57,135.27,154.73,180.07,277.07
+M24,L6,B15,1,0.6,2.6,71,50,2,4, 3.87 , 11.97 ,450,4.1,2.1355,4,21.30,34.23,155.27,48.70,64.37,89.70
+M25,L6,M15,1,0.6,2.6,71,47,2,3, 3.81 , 12.07 ,455,4.2,2.136,5,21.30,34.23,155.27,154.73,180.07,277.07
+M26,CH.ANTIF. Antif,NO,1,0.6,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M27,CH.STRUCT. Antif.,CH.STRUCT. Strux,1,0.6,2.6,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M28,Témoin,NO,1,0,0,Témoin,Témoin,Témoin,Témoin, 4.24 , 14.18 ,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M29,CH5,B15,1,0.8,3.2,72,50,1,4, 4.08 , 12.53 ,460,4.3,2.1322,6,84.80,121.57,135.27,48.70,64.37,89.70
+M30,CH5,M15,1,0.8,3.2,72,47,1,3, 3.30 , 11.01 ,457.5,4.3,2.1302,7,84.80,121.57,135.27,154.73,180.07,277.07
+M31,L6,B15,1,0.8,3.2,71,50,2,4, 3.89 , 12.05 ,447.5,4.4,2.1264,4,21.30,34.23,155.27,48.70,64.37,89.70
+M32,L6,M15,1,0.8,3.2,71,47,2,3, 3.46 , 11.01 ,452.5,4.4,2.1301,5,21.30,34.23,155.27,154.73,180.07,277.07
+M33,CH.ANTIF. Antif,NO,1,0.8,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M34,CH.STRUCT. Antif.,CH.STRUCT. Strux,1,0.8,3.2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M35,Témoin,NO,1,0,0,Témoin,Témoin,Témoin,Témoin, 4.34 , 14.19 ,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M36,CH5,B15,1,1,3,72,50,1,4, 3.32 , 8.16 ,455,4.7,2.1302,6,84.80,121.57,135.27,48.70,64.37,89.70
+M37,CH5,M15,1,1,3,72,47,1,3, 3.79 , 11.19 ,452.5,4.3,2.1291,7,84.80,121.57,135.27,154.73,180.07,277.07
+M38,L6,B15,1,1,3,71,50,2,4, 2.61 , 10.00 ,442.5,4.4,2.1259,4,21.30,34.23,155.27,48.70,64.37,89.70
+M39,L6,M15,1,1,3,71,47,2,3, 3.45 , 10.56 ,447.5,4.4,2.1245,5,21.30,34.23,155.27,154.73,180.07,277.07
+M40,CH.ANTIF. Antif,NO,1,1,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M41,CH.STRUCT. Antif.,CH.STRUCT. Strux,1,1,3,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M42,Témoin,NO,1,0,0,Témoin,Témoin,Témoin,Témoin, 4.34 , 14.19 ,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M43,CH5,B15,1,1.2,2.8,72,50,1,4, 3.51 , 12.30 ,440,4.8,2.1272,6,84.80,121.57,135.27,48.70,64.37,89.70
+M44,CH5,M15,1,1.2,2.8,72,47,1,3, 2.83 , 8.35 ,432.5,4.7,2.128,7,84.80,121.57,135.27,154.73,180.07,277.07
+M45,L6,B15,1,1.2,2.8,71,50,2,4, 4.19 , 11.79 ,427.5,4.3,2.1248,4,21.30,34.23,155.27,48.70,64.37,89.70
+M46,L6,M15,1,1.2,2.8,71,47,2,3, 3.29 , 10.58 ,437.5,4.6,2.1229,5,21.30,34.23,155.27,154.73,180.07,277.07
+M47,CH.ANTIF. Antif,NO,1,1.2,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M48,CH.STRUCT. Antif.,CH.STRUCT. Strux,1,1.2,2.8,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M49,Témoin,NO,1,0,0,Témoin,Témoin,Témoin,Témoin, 4.34 , 14.19 ,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M50,CH5,B15,7,0.6,1.8,72,50,1,4, 4.94 , 22.25 ,442.5,4.4,2.148,6,84.80,121.57,135.27,48.70,64.37,89.70
+M51,CH5,M15,7,0.6,1.8,72,47,1,3, 4.91 , 20.91 ,460,4.25,2.148,7,84.80,121.57,135.27,154.73,180.07,277.07
+M52,L6,B15,7,0.6,1.8,71,50,2,4, 4.82 , 19.60 ,437.5,4,2.15,4,21.30,34.23,155.27,48.70,64.37,89.70
+M53,L6,M15,7,0.6,1.8,71,47,2,3, 5.09 , 19.51 ,457.5,4.3,2.14,5,21.30,34.23,155.27,154.73,180.07,277.07
+M54,CH.ANTIF. Antif,NO,7,0.6,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique, 4.53 , 15.82 ,395,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M55,CH.STRUCT. Antif.,CH.STRUCT. Strux,7,0.6,1.8,Syntéthique,Syntéthique,Syntéthique,Syntéthique, 5.07 , 19.67 ,400,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M56,Témoin,NO,7,0,0,Témoin,Témoin,Témoin,Témoin, 6.58 , 25.35 ,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M57,CH5,B15,7,1,2.2,72,50,1,4, 5.36 , 22.46 ,445,4.5,2.14,6,84.80,121.57,135.27,48.70,64.37,89.70
+M58,CH5,M15,7,1,2.2,72,47,1,3, 5.90 , 24.33 ,445,4.3,2.14,7,84.80,121.57,135.27,154.73,180.07,277.07
+M59,L6,B15,7,1,2.2,71,50,2,4, 5.71 , 22.19 ,437.5,4.1,2.144,4,21.30,34.23,155.27,48.70,64.37,89.70
+M60,L6,M15,7,1,2.2,71,47,2,3, 5.67 , 24.17 ,432.5,4.4,2.1377,5,21.30,34.23,155.27,154.73,180.07,277.07
+M61,CH.ANTIF. Antif,NO,7,1,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M62,CH.STRUCT. Antif.,CH.STRUCT. Strux,7,1,2.2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M63,Témoin,NO,7,0,0,Témoin,Témoin,Témoin,Témoin, 6.58 , 25.35 ,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M64,CH5,B15,7,0.8,2.4,72,50,1,4, 6.15 , 27.32 ,452.5,4,2.1322,6,84.80,121.57,135.27,48.70,64.37,89.70
+M65,CH5,M15,7,0.8,2.4,72,47,1,3, 5.78 , 23.63 ,455,4.1,2.139,7,84.80,121.57,135.27,154.73,180.07,277.07
+M66,L6,B15,7,0.8,2.4,71,50,2,4, 6.38 , 26.53 ,450,4.2,2.152,4,21.30,34.23,155.27,48.70,64.37,89.70
+M67,L6,M15,7,0.8,2.4,71,47,2,3, 5.85 , 24.02 ,442.5,4.3,2.1386,5,21.30,34.23,155.27,154.73,180.07,277.07
+M68,CH.ANTIF. Antif,NO,7,0.8,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M69,CH.STRUCT. Antif.,CH.STRUCT. Strux,7,0.8,2.4,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M70,Témoin,NO,7,0,0,Témoin,Témoin,Témoin,Témoin, 6.58 , 25.35 ,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M71,CH5,B15,7,0.6,2.6,72,50,1,4, 5.88 , 22.46 ,465,4.3,2.134,6,84.80,121.57,135.27,48.70,64.37,89.70
+M72,CH5,M15,7,0.6,2.6,72,47,1,3, 5.55 , 24.27 ,462,4,2.136,7,84.80,121.57,135.27,154.73,180.07,277.07
+M73,L6,B15,7,0.6,2.6,71,50,2,4, 5.36 , 25.43 ,450,4.1,2.1355,4,21.30,34.23,155.27,48.70,64.37,89.70
+M74,L6,M15,7,0.6,2.6,71,47,2,3, 5.34 , 22.76 ,455,4.2,2.136,5,21.30,34.23,155.27,154.73,180.07,277.07
+M75,CH.ANTIF. Antif,NO,7,0.6,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M76,CH.STRUCT. Antif.,CH.STRUCT. Strux,7,0.6,2.6,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M77,Témoin,NO,7,0,0,Témoin,Témoin,Témoin,Témoin, 6.58 , 25.35 ,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M78,CH5,B15,7,0.8,3.2,72,50,1,4, 6.55 , 25.07 ,460,4.3,2.1322,6,84.80,121.57,135.27,48.70,64.37,89.70
+M79,CH5,M15,7,0.8,3.2,72,47,1,3, 6.05 , 23.01 ,457.5,4.3,2.1302,7,84.80,121.57,135.27,154.73,180.07,277.07
+M80,L6,B15,7,0.8,3.2,71,50,2,4, 6.03 , 26.67 ,447.5,4.4,2.1264,4,21.30,34.23,155.27,48.70,64.37,89.70
+M81,L6,M15,7,0.8,3.2,71,47,2,3, 5.69 , 22.64 ,452.5,4.4,2.1301,5,21.30,34.23,155.27,154.73,180.07,277.07
+M82,CH.ANTIF. Antif,NO,7,0.8,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M83,CH.STRUCT. Antif.,CH.STRUCT. Strux,7,0.8,3.2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M84,Témoin,NO,7,0,0,Témoin,Témoin,Témoin,Témoin, 6.69 , 25.35 ,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M85,CH5,B15,7,1,3,72,50,1,4, 6.07 , 24.40 ,455,4.7,2.1302,6,84.80,121.57,135.27,48.70,64.37,89.70
+M86,CH5,M15,7,1,3,72,47,1,3, 5.93 , 22.41 ,452.5,4.3,2.1291,7,84.80,121.57,135.27,154.73,180.07,277.07
+M87,L6,B15,7,1,3,71,50,2,4, 5.77 , 24.03 ,442.5,4.4,2.1259,4,21.30,34.23,155.27,48.70,64.37,89.70
+M88,L6,M15,7,1,3,71,47,2,3, 5.55 , 22.04 ,447.5,4.4,2.1245,5,21.30,34.23,155.27,154.73,180.07,277.07
+M89,CH.ANTIF. Antif,NO,7,1,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M90,CH.STRUCT. Antif.,CH.STRUCT. Strux,7,1,3,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M91,Témoin,NO,7,0,0,Témoin,Témoin,Témoin,Témoin, 6.69 , 25.35 ,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M92,CH5,B15,7,1.2,2.8,72,50,1,4, 5.79 , 23.82 ,440,4.8,2.1272,6,84.80,121.57,135.27,48.70,64.37,89.70
+M93,CH5,M15,7,1.2,2.8,72,47,1,3, 4.97 , 19.53 ,432.5,4.7,2.128,7,84.80,121.57,135.27,154.73,180.07,277.07
+M94,L6,B15,7,1.2,2.8,71,50,2,4, 5.68 , 23.71 ,427.5,4.3,2.1248,4,21.30,34.23,155.27,48.70,64.37,89.70
+M95,L6,M15,7,1.2,2.8,71,47,2,3, 4.89 , 21.76 ,437.5,4.6,2.1229,5,21.30,34.23,155.27,154.73,180.07,277.07
+M96,CH.ANTIF. Antif,NO,7,1.2,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M97,CH.STRUCT. Antif.,CH.STRUCT. Strux,7,1.2,2.8,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M98,Témoin,NO,7,0,0,Témoin,Témoin,Témoin,Témoin, 6.69 , 25.35 ,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M99,CH5,B15,28,0.6,1.8,72,50,1,4, 5.71 , 22.92 ,442.5,4.4,2.148,6,84.80,121.57,135.27,48.70,64.37,89.70
+M100,CH5,M15,28,0.6,1.8,72,47,1,3, 6.38 , 25.51 ,460,4.25,2.148,7,84.80,121.57,135.27,154.73,180.07,277.07
+M101,L6,B15,28,0.6,1.8,71,50,2,4, 6.68 , 27.28 ,437.5,4,2.15,4,21.30,34.23,155.27,48.70,64.37,89.70
+M102,L6,M15,28,0.6,1.8,71,47,2,3, 6.58 , 26.21 ,457.5,4.3,2.14,5,21.30,34.23,155.27,154.73,180.07,277.07
+M103,CH.ANTIF. Antif,NO,28,0.6,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique, 5.92 , 19.86 ,395,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M104,CH.STRUCT. Antif.,CH.STRUCT. Strux,28,0.6,1.8,Syntéthique,Syntéthique,Syntéthique,Syntéthique, 6.94 , 28.13 ,400,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M105,Témoin,NO,28,0,0,Témoin,Témoin,Témoin,Témoin, 7.15 , 30.25 ,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M106,CH5,B15,28,1,2.2,72,50,1,4, 7.39 , 28.94 ,445,4.5,2.14,6,84.80,121.57,135.27,48.70,64.37,89.70
+M107,CH5,M15,28,1,2.2,72,47,1,3, 7.37 , 28.58 ,445,4.3,2.14,7,84.80,121.57,135.27,154.73,180.07,277.07
+M108,L6,B15,28,1,2.2,71,50,2,4, 8.14 , 28.14 ,437.5,4.1,2.144,4,21.30,34.23,155.27,48.70,64.37,89.70
+M109,L6,M15,28,1,2.2,71,47,2,3, 7.54 , 28.21 ,432.5,4.4,2.1377,5,21.30,34.23,155.27,154.73,180.07,277.07
+M110,CH.ANTIF. Antif,NO,28,1,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M111,CH.STRUCT. Antif.,CH.STRUCT. Strux,28,1,2.2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M112,Témoin,NO,28,0,0,Témoin,Témoin,Témoin,Témoin, 7.15 , 30.25 ,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M113,CH5,B15,28,0.8,2.4,72,50,1,4, 7.76 , 28.75 ,452.5,4,2.1322,6,84.80,121.57,135.27,48.70,64.37,89.70
+M114,CH5,M15,28,0.8,2.4,72,47,1,3, 7.48 , 24.97 ,455,4.1,2.139,7,84.80,121.57,135.27,154.73,180.07,277.07
+M115,L6,B15,28,0.8,2.4,71,50,2,4, 8.45 , 28.66 ,450,4.2,2.152,4,21.30,34.23,155.27,48.70,64.37,89.70
+M116,L6,M15,28,0.8,2.4,71,47,2,3, 7.55 , 25.64 ,442.5,4.3,2.1386,5,21.30,34.23,155.27,154.73,180.07,277.07
+M117,CH.ANTIF. Antif,NO,28,0.8,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M118,CH.STRUCT. Antif.,CH.STRUCT. Strux,28,0.8,2.4,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M119,Témoin,NO,28,0,0,Témoin,Témoin,Témoin,Témoin, 7.15 , 30.25 ,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M120,CH5,B15,28,0.6,2.6,72,50,1,4, 8.09 , 29.16 ,465,4.3,2.134,6,84.80,121.57,135.27,48.70,64.37,89.70
+M121,CH5,M15,28,0.6,2.6,72,47,1,3, 7.82 , 28.39 ,462,4,2.136,7,84.80,121.57,135.27,154.73,180.07,277.07
+M122,L6,B15,28,0.6,2.6,71,50,2,4, 8.66 , 29.04 ,450,4.1,2.1355,4,21.30,34.23,155.27,48.70,64.37,89.70
+M123,L6,M15,28,0.6,2.6,71,47,2,3, 7.67 , 27.62 ,455,4.2,2.136,5,21.30,34.23,155.27,154.73,180.07,277.07
+M124,CH.ANTIF. Antif,NO,28,0.6,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M125,CH.STRUCT. Antif.,CH.STRUCT. Strux,28,0.6,2.6,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M126,Témoin,NO,28,0,0,Témoin,Témoin,Témoin,Témoin, 7.15 , 30.25 ,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M127,CH5,B15,28,0.8,3.2,72,50,1,4, 8.06 , 29.45 ,460,4.3,2.1322,6,84.80,121.57,135.27,48.70,64.37,89.70
+M128,CH5,M15,28,0.8,3.2,72,47,1,3, 6.76 , 27.14 ,457.5,4.3,2.1302,7,84.80,121.57,135.27,154.73,180.07,277.07
+M129,L6,B15,28,0.8,3.2,71,50,2,4, 6.99 , 30.15 ,447.5,4.4,2.1264,4,21.30,34.23,155.27,48.70,64.37,89.70
+M130,L6,M15,28,0.8,3.2,71,47,2,3, 6.44 , 25.10 ,452.5,4.4,2.1301,5,21.30,34.23,155.27,154.73,180.07,277.07
+M131,CH.ANTIF. Antif,NO,28,0.8,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M132,CH.STRUCT. Antif.,CH.STRUCT. Strux,28,0.8,3.2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M133,Témoin,NO,28,0,0,Témoin,Témoin,Témoin,Témoin, 6.84 , 30.25 ,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M134,CH5,B15,28,1,3,72,50,1,4, 6.35 , 26.20 ,455,4.7,2.1302,6,84.80,121.57,135.27,48.70,64.37,89.70
+M135,CH5,M15,28,1,3,72,47,1,3, 6.14 , 22.79 ,452.5,4.3,2.1291,7,84.80,121.57,135.27,154.73,180.07,277.07
+M136,L6,B15,28,1,3,71,50,2,4, 6.95 , 26.42 ,442.5,4.4,2.1259,4,21.30,34.23,155.27,48.70,64.37,89.70
+M137,L6,M15,28,1,3,71,47,2,3, 6.04 , 25.25 ,447.5,4.4,2.1245,5,21.30,34.23,155.27,154.73,180.07,277.07
+M138,CH.ANTIF. Antif,NO,28,1,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M139,CH.STRUCT. Antif.,CH.STRUCT. Strux,28,1,3,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M140,Témoin,NO,28,0,0,Témoin,Témoin,Témoin,Témoin, 6.84 , 30.25 ,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M141,CH5,B15,28,1.2,2.8,72,50,1,4, 6.98 , 28.48 ,440,4.8,2.1272,6,84.80,121.57,135.27,48.70,64.37,89.70
+M142,CH5,M15,28,1.2,2.8,72,47,1,3, 7.06 , 25.69 ,432.5,4.7,2.128,7,84.80,121.57,135.27,154.73,180.07,277.07
+M143,L6,B15,28,1.2,2.8,71,50,2,4, 6.74 , 28.90 ,427.5,4.3,2.1248,4,21.30,34.23,155.27,48.70,64.37,89.70
+M144,L6,M15,28,1.2,2.8,71,47,2,3, 6.42 , 25.96 ,437.5,4.6,2.1229,5,21.30,34.23,155.27,154.73,180.07,277.07
+M145,CH.ANTIF. Antif,NO,28,1.2,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M146,CH.STRUCT. Antif.,CH.STRUCT. Strux,28,1.2,2.8,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M147,Témoin,NO,28,0,0,Témoin,Témoin,Témoin,Témoin, 6.84 , 30.25 ,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M148,CH5,B15,91,0.6,1.8,72,50,1,4, 7.79 , 33.10 ,442.5,4.4,2.148,6,84.80,121.57,135.27,48.70,64.37,89.70
+M149,CH5,M15,91,0.6,1.8,72,47,1,3, 7.40 , 33.00 ,460,4.25,2.148,7,84.80,121.57,135.27,154.73,180.07,277.07
+M150,L6,B15,91,0.6,1.8,71,50,2,4, 7.27 , 31.34 ,437.5,4,2.15,4,21.30,34.23,155.27,48.70,64.37,89.70
+M151,L6,M15,91,0.6,1.8,71,47,2,3, 7.11 , 32.07 ,457.5,4.3,2.14,5,21.30,34.23,155.27,154.73,180.07,277.07
+M152,CH.ANTIF. Antif,NO,91,0.6,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique, 5.85 , 23.91 ,395,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M153,CH.STRUCT. Antif.,CH.STRUCT. Strux,91,0.6,1.8,Syntéthique,Syntéthique,Syntéthique,Syntéthique,7.84, 31.90 ,400,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M154,Témoin,NO,91,0,0,Témoin,Témoin,Témoin,Témoin,8.20,33.22,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M155,CH5,B15,91,1,2.2,72,50,1,4, 7.13 , 28.17 ,445,4.5,2.14,6,84.80,121.57,135.27,48.70,64.37,89.70
+M156,CH5,M15,91,1,2.2,72,47,1,3, 7.34 , 29.84 ,445,4.3,2.14,7,84.80,121.57,135.27,154.73,180.07,277.07
+M157,L6,B15,91,1,2.2,71,50,2,4, 7.60 , 29.80 ,437.5,4.1,2.144,4,21.30,34.23,155.27,48.70,64.37,89.70
+M158,L6,M15,91,1,2.2,71,47,2,3, 6.86 , 29.67 ,432.5,4.4,2.1377,5,21.30,34.23,155.27,154.73,180.07,277.07
+M159,CH.ANTIF. Antif,NO,91,1,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M160,CH.STRUCT. Antif.,CH.STRUCT. Strux,91,1,2.2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M161,Témoin,NO,91,0,0,Témoin,Témoin,Témoin,Témoin,8.20,33.22,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M162,CH5,B15,91,0.8,2.4,72,50,1,4, 7.27 , 28.46 ,452.5,4,2.1322,6,84.80,121.57,135.27,48.70,64.37,89.70
+M163,CH5,M15,91,0.8,2.4,72,47,1,3, 9.97 , 30.32 ,455,4.1,2.139,7,84.80,121.57,135.27,154.73,180.07,277.07
+M164,L6,B15,91,0.8,2.4,71,50,2,4, 9.23 , 33.41 ,450,4.2,2.152,4,21.30,34.23,155.27,48.70,64.37,89.70
+M165,L6,M15,91,0.8,2.4,71,47,2,3, 9.98 , 31.15 ,442.5,4.3,2.1386,5,21.30,34.23,155.27,154.73,180.07,277.07
+M166,CH.ANTIF. Antif,NO,91,0.8,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M167,CH.STRUCT. Antif.,CH.STRUCT. Strux,91,0.8,2.4,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M168,Témoin,NO,91,0,0,Témoin,Témoin,Témoin,Témoin,8.20,33.22,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M169,CH5,B15,91,0.6,2.6,72,50,1,4, 6.45 , 28.59 ,465,4.3,2.134,6,84.80,121.57,135.27,48.70,64.37,89.70
+M170,CH5,M15,91,0.6,2.6,72,47,1,3, 6.54 , 27.87 ,462,4,2.136,7,84.80,121.57,135.27,154.73,180.07,277.07
+M171,L6,B15,91,0.6,2.6,71,50,2,4, 6.98 , 28.19 ,450,4.1,2.1355,4,21.30,34.23,155.27,48.70,64.37,89.70
+M172,L6,M15,91,0.6,2.6,71,47,2,3, 6.92 , 29.21 ,455,4.2,2.136,5,21.30,34.23,155.27,154.73,180.07,277.07
+M173,CH.ANTIF. Antif,NO,91,0.6,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M174,CH.STRUCT. Antif.,CH.STRUCT. Strux,91,0.6,2.6,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M175,Témoin,NO,91,0,0,Témoin,Témoin,Témoin,Témoin,8.20,33.22,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M176,CH5,B15,91,0.8,3.2,72,50,1,4, 7.41 , 30.05 ,460,4.3,2.1322,6,84.80,121.57,135.27,48.70,64.37,89.70
+M177,CH5,M15,91,0.8,3.2,72,47,1,3, 8.63 , 29.36 ,457.5,4.3,2.1302,7,84.80,121.57,135.27,154.73,180.07,277.07
+M178,L6,B15,91,0.8,3.2,71,50,2,4, 7.41 , 31.54 ,447.5,4.4,2.1264,4,21.30,34.23,155.27,48.70,64.37,89.70
+M179,L6,M15,91,0.8,3.2,71,47,2,3, 8.96 , 28.63 ,452.5,4.4,2.1301,5,21.30,34.23,155.27,154.73,180.07,277.07
+M180,CH.ANTIF. Antif,NO,91,0.8,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M181,CH.STRUCT. Antif.,CH.STRUCT. Strux,91,0.8,3.2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M182,Témoin,NO,91,0,0,Témoin,Témoin,Témoin,Témoin,8.20,33.22,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M183,CH5,B15,91,1,3,72,50,1,4,7.34, 26.97 ,455,4.7,2.1302,6,84.80,121.57,135.27,48.70,64.37,89.70
+M184,CH5,M15,91,1,3,72,47,1,3,6.84, 33.33 ,452.5,4.3,2.1291,7,84.80,121.57,135.27,154.73,180.07,277.07
+M185,L6,B15,91,1,3,71,50,2,4,6.84, 35.20 ,442.5,4.4,2.1259,4,21.30,34.23,155.27,48.70,64.37,89.70
+M186,L6,M15,91,1,3,71,47,2,3,6.84, 35.21 ,447.5,4.4,2.1245,5,21.30,34.23,155.27,154.73,180.07,277.07
+M187,CH.ANTIF. Antif,NO,91,1,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M188,CH.STRUCT. Antif.,CH.STRUCT. Strux,91,1,3,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M189,Témoin,NO,91,0,0,Témoin,Témoin,Témoin,Témoin,8.20,33.22,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+M190,CH5,B15,91,1.2,2.8,72,50,1,4, 7.32 , 29.18 ,440,4.8,2.1272,6,84.80,121.57,135.27,48.70,64.37,89.70
+M191,CH5,M15,91,1.2,2.8,72,47,1,3, 8.29 , 28.03 ,432.5,4.7,2.128,7,84.80,121.57,135.27,154.73,180.07,277.07
+M192,L6,B15,91,1.2,2.8,71,50,2,4, 8.30 , 30.41 ,427.5,4.3,2.1248,4,21.30,34.23,155.27,48.70,64.37,89.70
+M193,L6,M15,91,1.2,2.8,71,47,2,3, 7.10 , 26.28 ,437.5,4.6,2.1229,5,21.30,34.23,155.27,154.73,180.07,277.07
+M194,CH.ANTIF. Antif,NO,91,1.2,0,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,1,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M195,CH.STRUCT. Antif.,CH.STRUCT. Strux,91,1.2,2.8,Syntéthique,Syntéthique,Syntéthique,Syntéthique,,,,,,2,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique,Syntéthique
+M196,Témoin,NO,91,0,0,Témoin,Témoin,Témoin,Témoin,8.20,33.22,490,3,2.24,3,Témoin,Témoin,Témoin,Témoin,Témoin,Témoin
+,,,,,,,,,,,,,,²,,,,,,,
