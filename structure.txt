@@ -1,0 +1,23 @@
+1. Abstract
+2. Introduction
+3. Materials and data description
+4. État de l'art
+    3.1 ML pour la prédiction des propriétés mécaniques des bétons fibrés
+    3.2 L'ANN dans les composites cimentaires (études qui l'abordent déjà<)
+    3.3 Arbres de décision vs deep learning 
+    3.4 Gap identifié + hypothèses (ce que l'on attend comme résultat)
+5. Méthodologie
+    5.1 Prétraitement (fusion mono/bifibre, encodage, anti-fuite, normalisation)
+    5.2 Analyse exploratoire des données
+    5.3 Modèles (ANN / Random Forest / XGBoost)
+    5.4 Protocole d'entraînement (Split / Kfold / gridsearch / Hyperparamètres ...)
+    5.5 Métriques : R², MAE, MSE/RMSE
+6. Résultats et interprétations 
+    6.2 Performance CS : résultats et comparaison des modèles
+    6.3 Performance FS : résultats et comparaison des modèles
+7. Key limitations and suggestions
+    7.1 ANN vs arbres : les résultats confirment-ils la littérature ? 
+    7.2 Limites identifiées (taille du dataset ~300, non-linéarités, robustesse au bruit des arbres…)
+    7.4 Synthèse chiffrée, modèle recommandé par cible, pistes d'amélirations
+8.Conclusion
+9. Reference

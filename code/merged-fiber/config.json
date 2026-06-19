@@ -1,0 +1,12 @@
+{
+    "rc": "CS (Mpa)",
+    "rf": "FS (Mpa)",
+    "rc_file_name": "rc_training_data",
+    "rf_file_name": "rf_training_data",
+    "split": {
+        "test_size": 0.2,
+        "random_state": 42
+    },
+    "target": "CS (Mpa)",
+    "file_name": "rc_training_data"
+}
