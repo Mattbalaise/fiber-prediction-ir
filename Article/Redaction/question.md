@@ -1,26 +1,18 @@
-### 1. Incohérence : nombre de neurones d'entrée
+### 1. Incohérence dans les données
 
-**Citation du papier :**
-> "the input layer comprises 24 neurons"
+1. Fibres synthétiques (ch.antif. et ch.strux)
+Je pense les retirer : leur teneur en air vaut 0 partout (non mesurée) et leur masse volumique est la même partout (2 245,5, la valeur du mortier sans fibre). Ça fausserait le modèle, surtout que l’air et la densité font partie des variables les plus influentes. De plus, l’étude porte sur les fibres végétales uniquement ? On peut le tourner comme ça ? 
 
-**Observation :**
-La figure associée montre seulement **17 neurones** d'entrée.
+2. Lin 6 en monofibre
+Aux dosages 1,2 , 2 et 4 kg/m³, les 12 lignes ont exactement les mêmes résistances (FS = 4,66 MPa, CS = 26,75 MPa) à tous les âges (1, 7, 28 et 90 jours). C’est impossible physiquement (selon ce que j'ai lu), ça ressemble à des valeurs recopiées, qui fausseraient l’entraînement. On a les vraies valeurs ? Sinon, je les retire.
 
-![alt text](image.png)
+3. Bifibres : jour 1 = jour 7
+Pour 8 formulations bifibres, les FS et CS à 1 jour sont strictement identiques à ceux à 7 jours. Normal ? 
 
-
-### 2. Dataleakage : FS/CS
-
-> Vérifier si FS est supprimé dans l'entrainement CS et inversement 
-
-Corrélation à 0.95 entre les variables cibles : 
-![alt text](image-1.png)
-
-
-### 3 : FS
-
-> Est-ce que pour le FS on a utilisé un Random Forest ? : "the Random Forest-predicted"
-
+Exemple : 
+chanvre 5	bambou 15	Days	FS	    CS
+0,6	        2,6	        1	    5,88    22,46
+0,6	        2,6	        7	    5,88    22,46
 
 ### GrassHopper (logiciel méta méteriaux)
 

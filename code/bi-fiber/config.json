@@ -1,12 +1,12 @@
 {
     "rc": "Rc (MPa)",
     "rf": "Rf (MPa)",
-    "rc_file_name": "rc_training_data",
-    "rf_file_name": "rf_training_data",
+    "rc_file_name": "3_rc_training_data",
+    "rf_file_name": "3_rf_training_data",
     "split": {
         "test_size": 0.2,
         "random_state": 42
     },
     "target": "Rf (MPa)",
-    "file_name": "rf_training_data"
+    "file_name": "3_rf_training_data"
 }
