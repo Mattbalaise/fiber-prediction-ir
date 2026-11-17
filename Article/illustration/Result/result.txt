@@ -1,0 +1,28 @@
+
+
+RANDOMN FOREST  : 
+
+
+Randomn forest with 1_raw_data_vegetal : 
+
+{'max_depth': 10, 'max_features': 0.7, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}
+MAE (test): 1.763036848366958
+RMSE (test): 2.4110933046904783
+R² (test): 0.9170938116428912
+ 
+MAE (train): 0.8939557208552869
+RMSE (train): 1.2524301704981715
+R² (train): 0.9748929459890178
+
+=======================================================
+
+Randomn forest with 1_raw_data_vegetal_augmented  :
+
+{'max_depth': 6, 'max_features': 0.5, 'min_samples_leaf': 4, 'min_samples_split': 10, 'n_estimators': 200}
+MAE (test): 1.68629090626976
+RMSE (test): 2.152144028513982
+R² (test): 0.9271180614876824
+ 
+MAE (train): 1.2394875992638745
+RMSE (train): 1.5838625625647804
+R² (train): 0.9625217143413816
