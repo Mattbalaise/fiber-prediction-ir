@@ -3,11 +3,11 @@
 1. Fibres synthétiques (ch.antif. et ch.strux)
 Je pense les retirer : leur teneur en air vaut 0 partout (non mesurée) et leur masse volumique est la même partout (2 245,5, la valeur du mortier sans fibre). Ça fausserait le modèle, surtout que l’air et la densité font partie des variables les plus influentes. De plus, l’étude porte sur les fibres végétales uniquement ? On peut le tourner comme ça ? 
 
-2. Lin 6 en monofibre
-Aux dosages 1,2 , 2 et 4 kg/m³, les 12 lignes ont exactement les mêmes résistances (FS = 4,66 MPa, CS = 26,75 MPa) à tous les âges (1, 7, 28 et 90 jours). C’est impossible physiquement (selon ce que j'ai lu), ça ressemble à des valeurs recopiées, qui fausseraient l’entraînement. On a les vraies valeurs ? Sinon, je les retire.
+<!-- 2. Lin 6 en monofibre
+Aux dosages 1,2 , 2 et 4 kg/m³, les 12 lignes ont exactement les mêmes résistances (FS = 4,66 MPa, CS = 26,75 MPa) à tous les âges (1, 7, 28 et 90 jours). C’est impossible physiquement (selon ce que j'ai lu), ça ressemble à des valeurs recopiées, qui fausseraient l’entraînement. On a les vraies valeurs ? Sinon, je les retire. -->
 
-3. Bifibres : jour 1 = jour 7
-Pour 8 formulations bifibres, les FS et CS à 1 jour sont strictement identiques à ceux à 7 jours. Normal ? 
+<!-- 3. Bifibres : jour 1 = jour 7
+Pour 8 formulations bifibres, les FS et CS à 1 jour sont strictement identiques à ceux à 7 jours. Normal ?  -->
 
 Exemple : 
 chanvre 5	bambou 15	Days	FS	    CS

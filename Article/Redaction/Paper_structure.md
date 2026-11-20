@@ -12,8 +12,7 @@
 - 3.4 Identified gap and hypotheses (expected results)
 
 ## 4. Materials and Data Description
-- 4.1 Data collection
-- 4.2 Dataset overview
+Based on sergio work
 
 ## 5. Methodology
 - 5.1 Preprocessing (mono/bi-fibre merging, encoding, leakage prevention, normalisation)
